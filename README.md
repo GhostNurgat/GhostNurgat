@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋</h1>
-
+<p>I'm Marat. I'm kind, quite programmer. I'm working on C# backend ASP .NET Core, frontend on HTML+CSS+JS, Python</p>
 <!--
 **GhostNurgat/GhostNurgat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
